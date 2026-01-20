@@ -20,9 +20,9 @@
 ---
 include:
   - board: nice_nano
-    shield: skeletyl_left
+    shield: bastardkb_skeletyl_left
   - board: nice_nano
-    shield: skeletyl_right
+    shield: bastardkb_skeletyl_right
   - board: eyelash_corne_left
     shield: nice_view
     snippet: studio-rpc-usb-uart
